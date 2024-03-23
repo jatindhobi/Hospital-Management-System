@@ -46,7 +46,7 @@
         <section class="contact_us_section">
             <div class="section-header">
                 <div class="contact_us_container">
-                    <p class="contact_p">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                    <p class="contact_p">Here, users can easily reach out for assistance, feedback, or inquiries regarding our services. Whether it's technical support, training queries, or general information about our system, our dedicated team is available to address concerns promptly and provide assistance around the clock. Simply fill out the form or utilize the provided contact details, and our team will ensure a swift and personalized response to meet your needs. We're committed to providing exceptional support and ensuring a seamless experience with our hospital management system.</p>
                 </div>
             </div>
 
@@ -72,7 +72,7 @@
 
                             <div class="contact-info-content">
                                 <h4 class="contact_h4">Phone</h4>
-                                <p class="contact_p">571-457-2321</p>
+                                <p class="contact_p">9825422327</p>
                             </div>
                         </div>
 
@@ -83,7 +83,7 @@
 
                             <div class="contact-info-content">
                                 <h4 class="contact_h4">Email</h4>
-                                <p class="contact_p">ntamerrwael@mfano.ga</p>
+                                <p class="contact_p">samgarge911@gmail.com</p>
                             </div>
                         </div>
                     </div>

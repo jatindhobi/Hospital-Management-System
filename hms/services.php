@@ -13,7 +13,7 @@
 				<div class="col-md-10 col-lg-8">
 					<div class="header-section">
 						<h2 class="title">Exclusive Services</h2>
-						<p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur malesuada fermentum purus, eu volutpat nisi laoreet id. Phasellus fringilla accumsan metus, at tempor est hendrerit et.</p>
+						<p class="description">Experience the next generation of healthcare management with our exclusive services tailored to meet the evolving needs of modern healthcare delivery. From enhancing clinical workflows to improving patient outcomes and operational efficiency, our comprehensive solution is designed to drive excellence across the healthcare continuum.</p>
 					</div>
 				</div>
 			</div>
@@ -25,8 +25,8 @@
 							<span class="icon">
 								<i class="fab fa-battle-net"></i>
 							</span>
-							<h3 class="title">Global coverage</h3>
-							<p class="description">Mauris volutpat urna tristique finibus iaculis. Morbi facilisis, justo eu vulputate elementum, est augue tincidunt ante, sed efficitur leo ligula vel velit.</p>
+							<h3 class="title">Billing and Insurance Management</h3>
+							<p class="description">Simplify the complexities of billing and insurance with our intuitive system that automates billing processes, generates accurate invoices, and seamlessly integrates with insurance providers for claims processing. Real-time eligibility verification and claims tracking reduce billing errors and expedite reimbursement, ensuring financial stability for both patients and healthcare facilities.</p>
 							<a href="#" class="learn-more">Learn More</a>
 						</div>
 						<span class="circle-before"></span>
@@ -40,8 +40,8 @@
 							<span class="icon">
 								<i class="fab fa-asymmetrik"></i>
 							</span>
-							<h3 class="title">It Management</h3>
-							<p class="description">Mauris volutpat urna tristique finibus iaculis. Morbi facilisis, justo eu vulputate elementum, est augue tincidunt ante, sed efficitur leo ligula vel velit.</p>
+							<h3 class="title">Comprehensive Electronic Health Records</h3>
+							<p class="description">Our hospital management system offers an advanced EHR module that securely stores and manages patient health information electronically. This includes medical history, diagnoses, medications, lab results, and more, accessible in real-time from any authorized device. With built-in privacy controls and encryption, patient data remains protected while enabling seamless information exchange among healthcare providers.</p>
 							<a href="#" class="learn-more">Learn More</a>
 						</div>
 						<span class="circle-before"></span>
@@ -55,8 +55,8 @@
 							<span class="icon">
 								<i class="fab fa-artstation"></i>
 							</span>
-							<h3 class="title">Software Development</h3>
-							<p class="description">Mauris volutpat urna tristique finibus iaculis. Morbi facilisis, justo eu vulputate elementum, est augue tincidunt ante, sed efficitur leo ligula vel velit.</p>
+							<h3 class="title">Interoperability and Interconnectivity</h3>
+							<p class="description">Seamlessly exchange data with external healthcare systems, laboratories, pharmacies, and imaging centers through standardized interfaces and interoperability standards. Our system facilitates secure data sharing and collaboration across the healthcare ecosystem, enabling continuity of care and improved care coordination.</p>
 							<a href="#" class="learn-more">Learn More</a>
 						</div>
 						<span class="circle-before"></span>
@@ -70,8 +70,8 @@
 							<span class="icon">
 								<i class="fab fa-500px"></i>
 							</span>
-							<h3 class="title">Brand Strategy</h3>
-							<p class="description">Mauris volutpat urna tristique finibus iaculis. Morbi facilisis, justo eu vulputate elementum, est augue tincidunt ante, sed efficitur leo ligula vel velit.</p>
+							<h3 class="title">Telemedicine and Remote Consultations</h3>
+							<p class="description"> Embrace the future of healthcare delivery with our telemedicine feature, enabling remote consultations between patients and healthcare professionals through secure video conferencing. Patients can receive medical advice, prescriptions, and follow-up care conveniently from the comfort of their homes, expanding access to healthcare services while minimizing physical contact.</p>
 							<a href="#" class="learn-more">Learn More</a>
 						</div>
 						<span class="circle-before"></span>
@@ -85,8 +85,8 @@
 							<span class="icon">
 								<i class="fas fa-chart-pie"></i>
 							</span>
-							<h3 class="title">Business Consulting</h3>
-							<p class="description">Mauris volutpat urna tristique finibus iaculis. Morbi facilisis, justo eu vulputate elementum, est augue tincidunt ante, sed efficitur leo ligula vel velit.</p>
+							<h3 class="title">Integrated Appointment Scheduling</h3>
+							<p class="description">Say goodbye to appointment scheduling hassles with our integrated system that allows patients to book appointments online, check availability in real-time.Healthcare providers can efficiently manage their schedules, reducing wait times and optimizing resource utilization.</p>
 							<a href="#" class="learn-more">Learn More</a>
 						</div>
 						<span class="circle-before"></span>
@@ -100,8 +100,8 @@
 							<span class="icon">
 								<i class="fas fa-laptop-code"></i>
 							</span>
-							<h3 class="title">Website Design</h3>
-							<p class="description">Mauris volutpat urna tristique finibus iaculis. Morbi facilisis, justo eu vulputate elementum, est augue tincidunt ante, sed efficitur leo ligula vel velit.</p>
+							<h3 class="title">Patient Engagement and Education</h3>
+							<p class="description">Foster patient engagement and empowerment with our patient portal, offering secure access to personal health records, educational resources, and interactive tools for self-management. Patients can actively participate in their care journey, communicate with healthcare providers, and stay informed about upcoming appointments and treatment plans, leading to better health outcomes and satisfaction.</p>
 							<a href="#" class="learn-more">Learn More</a>
 						</div>
 						<span class="circle-before"></span>

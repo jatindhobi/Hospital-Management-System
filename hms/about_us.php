@@ -12,7 +12,7 @@
                 <div class="col-md-10 col-lg-8">
                     <div class="header-section">
                         <h2 class="title">About Us</h2>
-                        <p class="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur malesuada fermentum purus, eu volutpat nisi laoreet id. Phasellus fringilla accumsan metus, at tempor est hendrerit et.</p>
+                        <p class="description">We offerinsight into the vision and mission behind our hospital management system, highlighting our commitment to revolutionizing healthcare delivery through innovative technology solutions. With a focus on improving patient care, streamlining operations, and enhancing efficiency, we strive to empower healthcare organizations to achieve their goals and deliver exceptional services to communities worldwide.</p>
                     </div>
                 </div>
             </div>
@@ -27,7 +27,7 @@
             </div>
             <div class="about-us-info">
                 <h2>We are Digital Upgrade</h2>
-                <p>Digital Upgrade, located in Evansville, IN, makes it easy for businesses to create and manage their digital presence and logistics, meaning we can make your business more efficient and profitable! We believe in our community and want to help our local business economy grow and expand. We believe in our clients, and want to assist in their digital success. The D-UP team grades ourselves on outcomes, not on sales.</p>
+                <p>Driven by the ever-evolving landscape of healthcare, we understand the challenges faced by hospitals and healthcare facilities in managing complex operations while delivering high-quality care. Our mission is to bridge this gap by offering a comprehensive hospital management system that leverages cutting-edge technology to streamline processes, enhance efficiency, and improve patient outcomes.</p>
                 <a class="about_us_btn" href="">ABOUT US</a>
             </div>
         </div>
@@ -36,8 +36,8 @@
                 <img src="https://digitalupgrade.com/images/building_pic.jpg" width="951" height="471" alt="Building Pic">
             </div>
             <div class="history-info">
-                <h2>Preserving Local History</h2>
-                <p>In 2018, technology companies, Desktop Doctors & Digital Upgrade found a new place to call home, at 816 N. 9th Ave. Since the takeover of the 118-year-old building (formally Stippler Tool & Supply and Crown Chair Company), there have been many renovations completed to preserve this local piece of Evansville, IN history.</p>
+                <h2>Building a Healthy Community</h2>
+                <p>At the heart of our philosophy lies a deep commitment to innovation, quality, and excellence. We continuously strive to stay at the forefront of technological advancements, anticipating the needs of healthcare providers and patients alike. By fostering a culture of collaboration, transparency, and integrity, we forge enduring partnerships with our clients, empowering them to navigate the challenges of modern healthcare with confidence.</p>
                 <a class="about_us_btn" href="#" title="History Button">HISTORY</a>
             </div>
         </div>
@@ -65,7 +65,7 @@
                 <img src="">
             </div>
             <div class="team_caption">
-                <h3 class="team_h3">David Corner</h3>
+                <h3 class="team_h3">Samarth Garge</h3>
                 <p class="team_p">Front End Developer</p>
                 <div class="team_social-links">
                     <a class="team_a" href="#"><i class="fab fa-facebook"></i></a>
@@ -79,7 +79,7 @@
                 <img src="">
             </div>
             <div class="team_caption">
-                <h3 class="team_h3">Tom Cruise</h3>
+                <h3 class="team_h3">Rishabh Limbachiya</h3>
                 <p class="team_p">Full Stact Developer</p>
                 <div class="team_social-links">
                     <a class="team_a" href="#"><i class="fab fa-facebook"></i></a>
