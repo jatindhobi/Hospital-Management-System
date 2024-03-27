@@ -71,7 +71,7 @@
 								<i class="fab fa-500px"></i>
 							</span>
 							<h3 class="title">Telemedicine and Remote Consultations</h3>
-							<p class="description"> Embrace the future of healthcare delivery with our telemedicine feature, enabling remote consultations between patients and healthcare professionals through secure video conferencing. Patients can receive medical advice, prescriptions, and follow-up care conveniently from the comfort of their homes, expanding access to healthcare services while minimizing physical contact.</p>
+							<p class="description"> Embrace the future of healthcare delivery with our telemedicine feature, enabling remote consultations between patients and healthcare professionals through secure video conferencing.</p>
 							<a href="#" class="learn-more">Learn More</a>
 						</div>
 						<span class="circle-before"></span>
@@ -101,7 +101,7 @@
 								<i class="fas fa-laptop-code"></i>
 							</span>
 							<h3 class="title">Patient Engagement and Education</h3>
-							<p class="description">Foster patient engagement and empowerment with our patient portal, offering secure access to personal health records, educational resources, and interactive tools for self-management. Patients can actively participate in their care journey, communicate with healthcare providers, and stay informed about upcoming appointments and treatment plans, leading to better health outcomes and satisfaction.</p>
+							<p class="description">Foster patient engagement and empowerment with our patient portal, offering secure access to personal health records, educational resources, and interactive tools for self-management.</p>
 							<a href="#" class="learn-more">Learn More</a>
 						</div>
 						<span class="circle-before"></span>
