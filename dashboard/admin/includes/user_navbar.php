@@ -53,15 +53,7 @@ if (!isset($_SESSION['logged_in']) || $_SESSION['logged_in'] !== true) {
       <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1tZXNzYWdlLXNxdWFyZS1xdW90ZSI+PHBhdGggZD0iTTIxIDE1YTIgMiAwIDAgMS0yIDJIN2wtNCA0VjVhMiAyIDAgMCAxIDItMmgxNGEyIDIgMCAwIDEgMiAyeiIvPjxwYXRoIGQ9Ik04IDEyYTIgMiAwIDAgMCAyLTJWOEg4Ii8+PHBhdGggZD0iTTE0IDEyYTIgMiAwIDAgMCAyLTJWOGgtMiIvPjwvc3ZnPg==">
       <span>Write Review</span></a>
     <hr class="sidebar-divider">
-
-    <a class="nav-link" href="">
-      <i class="fas fa-fw fa-chart-area"></i>
-      <span>Dashboard</span></a>
   </li>
-
-  <!-- Divider -->
-  <hr class="sidebar-divider">
-
 
   <!-- Sidebar Toggler (Sidebar) -->
   <div class="text-center d-none d-md-inline">

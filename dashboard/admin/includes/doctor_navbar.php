@@ -50,20 +50,7 @@ if (!isset($_SESSION['logged_in']) || $_SESSION['logged_in'] !== true) {
       <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS11c2VyLXNlYXJjaCI+PGNpcmNsZSBjeD0iMTAiIGN5PSI3IiByPSI0Ii8+PHBhdGggZD0iTTEwLjMgMTVIN2E0IDQgMCAwIDAtNCA0djIiLz48Y2lyY2xlIGN4PSIxNyIgY3k9IjE3IiByPSIzIi8+PHBhdGggZD0ibTIxIDIxLTEuOS0xLjkiLz48L3N2Zz4=">
       <span>Register</span></a>
     <hr class="sidebar-divider">
-
-    <a class="nav-link" href="">
-      <i class="fas fa-fw fa-chart-area"></i>
-      <span>Dashboard</span></a>
-    <hr class="sidebar-divider">
-
-    <a class="nav-link" href="">
-      <i class="fas fa-fw fa-chart-area"></i>
-      <span>Dashboard</span></a>
   </li>
-
-  <!-- Divider -->
-  <hr class="sidebar-divider">
-
 
   <!-- Sidebar Toggler (Sidebar) -->
   <div class="text-center d-none d-md-inline">
