@@ -60,7 +60,7 @@
         </div>
         <div class="profile-card">
             <div class="img">
-                <img src="">
+                <img style="object-fit:cover; height:160px;" src="../assets/images/samarth.jpg">
             </div>
             <div class="team_caption">
                 <h3 class="team_h3">Samarth Garge</h3>
@@ -74,7 +74,7 @@
         </div>
         <div class="profile-card">
             <div class="img">
-                <img src="">
+                <img style="object-fit:cover; height:160px;" src="../assets/images/rishabh.jpg">
             </div>
             <div class="team_caption">
                 <h3 class="team_h3">Rishabh</h3>
