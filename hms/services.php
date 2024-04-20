@@ -27,7 +27,6 @@
 							</span>
 							<h3 class="title">Billing and Insurance Management</h3>
 							<p class="description">Simplify the complexities of billing and insurance with our intuitive system that automates billing processes, generates accurate invoices, and seamlessly integrates with insurance providers for claims processing. Real-time eligibility verification and claims tracking reduce billing errors and expedite reimbursement, ensuring financial stability for both patients and healthcare facilities.</p>
-							<a href="#" class="learn-more">Learn More</a>
 						</div>
 						<span class="circle-before"></span>
 					</div>
@@ -42,7 +41,6 @@
 							</span>
 							<h3 class="title">Comprehensive Electronic Health Records</h3>
 							<p class="description">Our hospital management system offers an advanced EHR module that securely stores and manages patient health information electronically. This includes medical history, diagnoses, medications, lab results, and more, accessible in real-time from any authorized device. With built-in privacy controls and encryption, patient data remains protected while enabling seamless information exchange among healthcare providers.</p>
-							<a href="#" class="learn-more">Learn More</a>
 						</div>
 						<span class="circle-before"></span>
 					</div>
@@ -57,7 +55,6 @@
 							</span>
 							<h3 class="title">Interoperability and Interconnectivity</h3>
 							<p class="description">Seamlessly exchange data with external healthcare systems, laboratories, pharmacies, and imaging centers through standardized interfaces and interoperability standards. Our system facilitates secure data sharing and collaboration across the healthcare ecosystem, enabling continuity of care and improved care coordination.</p>
-							<a href="#" class="learn-more">Learn More</a>
 						</div>
 						<span class="circle-before"></span>
 					</div>
@@ -72,7 +69,6 @@
 							</span>
 							<h3 class="title">Telemedicine and Remote Consultations</h3>
 							<p class="description"> Embrace the future of healthcare delivery with our telemedicine feature, enabling remote consultations between patients and healthcare professionals through secure video conferencing.</p>
-							<a href="#" class="learn-more">Learn More</a>
 						</div>
 						<span class="circle-before"></span>
 					</div>
@@ -87,7 +83,6 @@
 							</span>
 							<h3 class="title">Integrated Appointment Scheduling</h3>
 							<p class="description">Say goodbye to appointment scheduling hassles with our integrated system that allows patients to book appointments online, check availability in real-time.Healthcare providers can efficiently manage their schedules, reducing wait times and optimizing resource utilization.</p>
-							<a href="#" class="learn-more">Learn More</a>
 						</div>
 						<span class="circle-before"></span>
 					</div>
@@ -102,7 +97,6 @@
 							</span>
 							<h3 class="title">Patient Engagement and Education</h3>
 							<p class="description">Foster patient engagement and empowerment with our patient portal, offering secure access to personal health records, educational resources, and interactive tools for self-management.</p>
-							<a href="#" class="learn-more">Learn More</a>
 						</div>
 						<span class="circle-before"></span>
 					</div>
